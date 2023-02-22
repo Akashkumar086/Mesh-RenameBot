@@ -20,7 +20,7 @@ Use of filters is easy just do what the bot says.
 
 # Deploy to Railways 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akashkumar086/Mesh-RenameBot)
+[![Deploy](https://www.railway.app/deploy/button.svg)](https://railway.app/deploy?template=https://github.com/Akashkumar086/Mesh-RenameBot)
 
 
 # Upcoming Features

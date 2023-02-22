@@ -18,7 +18,7 @@ Use of filters is easy just do what the bot says.
  - Track user activity.
  - Force join for the user for use.
 
-# Deploy to Heroku
+# Deploy to Railways 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akashkumar086/Mesh-RenameBot)
 
